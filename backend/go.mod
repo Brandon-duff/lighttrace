@@ -37,7 +37,7 @@ require (
 	github.com/bradleyfalzon/ghinstallation/v2 v2.10.0
 	github.com/clearbit/clearbit-go v1.1.0
 	github.com/cloudflare/cloudflare-go v0.97.0
-	github.com/coreos/go-oidc/v3 v3.10.0
+	github.com/coreos/go-oidc/v3 v3.14.1
 	github.com/dchest/uniuri v1.2.0
 	github.com/disintegration/imaging v1.6.2
 	github.com/go-chi/chi v4.1.2+incompatible
@@ -93,7 +93,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.33.0
 	go.opentelemetry.io/otel/trace v1.33.0
 	golang.org/x/mod v0.18.0
-	golang.org/x/oauth2 v0.24.0
+	golang.org/x/oauth2 v0.28.0
 	golang.org/x/sync v0.8.0
 	golang.org/x/text v0.23.0
 	google.golang.org/api v0.185.0
