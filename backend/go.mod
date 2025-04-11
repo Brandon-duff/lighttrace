@@ -97,8 +97,8 @@ require (
 	golang.org/x/sync v0.8.0
 	golang.org/x/text v0.23.0
 	google.golang.org/api v0.185.0
-	gorm.io/driver/postgres v1.5.7
-	gorm.io/gorm v1.25.7
+	gorm.io/driver/postgres v1.5.11
+	gorm.io/gorm v1.25.10
 )
 
 require (
