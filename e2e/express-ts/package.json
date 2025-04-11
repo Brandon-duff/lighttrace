@@ -24,7 +24,7 @@
 		"dotenv": "^16.3.1",
 		"express": "^4.19.2",
 		"graphql": "^16.8.1",
-		"pino": "^8.19.0",
+		"pino": "^9.6.0",
 		"pino-pretty": "^10.2.3"
 	},
 	"devDependencies": {
