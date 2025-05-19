@@ -10628,7 +10628,7 @@ __metadata:
     "@storybook/addon-essentials": "npm:^8.2.6"
     "@storybook/addon-interactions": "npm:^8.2.6"
     "@storybook/addon-links": "npm:^8.2.6"
-    "@storybook/blocks": "npm:^8.2.6"
+    "@storybook/blocks": "npm:^8.6.14"
     "@storybook/react": "npm:^8.2.6"
     "@storybook/react-vite": "npm:^8.2.6"
     "@storybook/test": "npm:^8.2.6"
@@ -20096,7 +20096,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/blocks@npm:8.2.6, @storybook/blocks@npm:^8.2.6":
+"@storybook/blocks@npm:8.2.6":
   version: 8.2.6
   resolution: "@storybook/blocks@npm:8.2.6"
   dependencies:
@@ -20124,6 +20124,25 @@ __metadata:
     react-dom:
       optional: true
   checksum: 10/46eb527857639669b5cd5265d63340eca4174bfecc336716d7cb3bcec505554a0ac28b11f80518ac5473ef8975157e7157e0d4f04474917aa04d564ba6f2623c
+  languageName: node
+  linkType: hard
+
+"@storybook/blocks@npm:^8.6.14":
+  version: 8.6.14
+  resolution: "@storybook/blocks@npm:8.6.14"
+  dependencies:
+    "@storybook/icons": "npm:^1.2.12"
+    ts-dedent: "npm:^2.0.0"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
+    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
+    storybook: ^8.6.14
+  peerDependenciesMeta:
+    react:
+      optional: true
+    react-dom:
+      optional: true
+  checksum: 10/9bf85f9dd40d8eeb0f012d13a7c88d3d828b680f47c86e8472b76edda3127a87e9dbbf4e08cd8478a855558e5e58204479a08102a97ddf7b834850e760ba3f1c
   languageName: node
   linkType: hard
 
@@ -20239,6 +20258,16 @@ __metadata:
   version: 5.0.0
   resolution: "@storybook/global@npm:5.0.0"
   checksum: 10/0e7b495f4fe7f36447e793926f1c0460ec07fd66f0da68e3150da5878f6043c9eeb9b41614a45c5ec0d48d5d383c59ca8f88b6dc7882a2a784ac9b20375d8edb
+  languageName: node
+  linkType: hard
+
+"@storybook/icons@npm:^1.2.12":
+  version: 1.4.0
+  resolution: "@storybook/icons@npm:1.4.0"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta
+    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta
+  checksum: 10/513d36188bb84f1f64dd982b6bd577de4c3d7bc2aa9d318a2acf8c654d16994bac0b669787a4ced6720e471251bcb0ec68b8d8dc2cc7245d11102bd617243700
   languageName: node
   linkType: hard
 
